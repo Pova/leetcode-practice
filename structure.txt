@@ -1,0 +1,16 @@
+practice/
+├─ leetcode/
+|   ├─ problems/
+|   |   ├─ p1696.txt
+|   |   └─ pNUM.txt
+|   ├─ solutions/
+|   |   ├─ p1696_maximum_unique_subarray.py
+|   |   ├─ pNUM_DESCRIPTION.py
+|   |   └─ __init__.py
+|   └─ tests/
+|       ├─ test_p1696.py
+|       ├─ test_pNUM.py
+|       └─ __init__.py
+├─ venv/
+├─ requirements.txt
+└─ structure.txt
