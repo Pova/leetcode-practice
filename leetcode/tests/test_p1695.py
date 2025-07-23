@@ -1,12 +1,12 @@
 # tests/test_p1696.py
 
 import unittest
-from leetcode.solutions.p1696_maximum_unique_subarray import Solution
+from leetcode.solutions.p1695_maximum_erasure_value import Solution
 
-class TestMaximumUniqueSubarray(unittest.TestCase):
+class TestMaximumErasureValue(unittest.TestCase):
     def run_test(self, nums, expected):
         sol = Solution()
-        self.assertEqual(sol.maximumUniqueSubarray(nums), expected)
+        self.assertEqual(sol.maximumErasureValue(nums), expected)
 
     def test_examples(self):
         # LeetCode examples
